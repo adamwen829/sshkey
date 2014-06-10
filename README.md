@@ -8,7 +8,6 @@ An [Alfred](http://alfredapp.com) workflow that copys your SSH Public Key to cli
 
 ### Usage
 
-Usage follows the following format:
 Just input sshkey in alfred and press enter
 
 ### Installation
